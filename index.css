@@ -1,0 +1,71 @@
+
+
+
+
+
+.pop{
+    height: 40px;
+    width: 60%;
+    background-color: gainsboro;
+    margin: auto;
+  padding-top: 1%;
+    padding-left: 1%;}
+
+
+.pan {
+    height: 500px;
+    width: 60%;
+    background-color: gainsboro;
+    margin: auto;
+}
+
+.pen {
+    height: 200px;
+    width: 60%;
+    background-color: gainsboro;
+    margin: auto;
+}
+
+.pin {
+    height: 50px;
+    width: 60%;
+    background-color: gainsboro;
+    margin: auto;
+}
+
+.King {
+    height: 40px;
+    width: 10%;
+    background-color: grey;
+    margin: bottom 25px;
+
+
+}
+.Queen {
+    height: 40px;
+    width: 10%;
+    background-color: grey;
+    margin-bottom: 25px;
+}
+
+.prince {
+    height: 40px;
+    width: 12%;
+    background-color: grey;
+    margin-bottom: auto;
+}
+
+.Mango {
+    height: 500px;
+    width: 49%;
+    background-color: blue;
+    float: right;
+}
+
+.Orange {
+    height: 500px;
+    width: 49%;
+    background-color:gold;
+    float: left;
+}
+    

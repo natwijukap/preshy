@@ -1,0 +1,95 @@
+
+.pan{
+    height: 40px;
+    width: 60%;
+    background-color: gainsboro;
+    margin: auto;
+
+    
+    
+}
+.king{
+    height: 40px;
+    width: 10%;
+    background-color:grey;
+    margin-bottom: 25px;
+
+
+    
+}
+.Queen{
+    height: 40px;
+    width: 10%;
+    background-color: grey;
+    margin-bottom: 25px;
+
+}
+.prince{
+    height: 40px;
+    width: 10%;
+    background-color: grey;
+    
+    
+}
+.put{
+    height: 60px;
+    width: 40%;
+    background-color: gainsboro;
+    margin: auto;
+    padding-top: 1%;
+    padding-left: 25%;
+    
+    
+}
+.pin{
+    height: 90px;
+    width: 60%;
+    background-color: gainsboro;
+    margin: auto;
+}
+.pen{
+    height: 400px;
+    width: 60%;
+    background-color: gainsboro;
+    margin: auto;
+}
+.jug{
+    height: 300px;
+    width: 60%;
+    background-color: gainsboro;
+    margin: auto;
+    padding-top: 1%;
+    padding-left: 2%;
+}
+.pop{
+    height: 40px;
+    width: 60%;
+    background-color:gainsboro;
+    margin: auto;
+    padding-top: 1%;
+    padding-left: 1%;
+}
+.peace{
+    height: 60px;
+    width: 98%;
+}
+.pot{
+    height: 40px;
+    width: 30%;
+    background-color: grey;
+    margin: auto;
+}
+.tree{
+    height: 100px;
+    width: 60%;
+    background-color: gainsboro;
+    margin: auto;
+}
+.past{
+    height: 40px;
+    width: 45%;
+    background-color: grey;
+    margin: auto;
+}
+
+
