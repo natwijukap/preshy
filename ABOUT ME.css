@@ -1,7 +1,7 @@
 .pop{
     height: 40px;
-    width: 60%;
-    background-color: grey;
+    width: 59%;
+    background-color: gainsboro;
     margin: auto;
   padding-top: 1%;
     padding-left: 1%;}
@@ -16,9 +16,10 @@
 
 .pen {
     height: 200px;
-    width: 60%;
+    width: 58%;
     background-color: gainsboro;
     margin: auto;
+    padding-left: 2%;
 }
 
 .pin {
@@ -26,6 +27,8 @@
     width: 60%;
     background-color: gainsboro;
     margin: auto;
+    text-align: center;
+    padding-top: 1%;
 }
 
 .King {
@@ -47,7 +50,7 @@
 .prince {
     height: 40px;
     width: 12%;
-    background-color: grey;
+    background-color:grey;
     margin-bottom: auto;
 }
 
@@ -63,6 +66,8 @@
     width: 49%;
     background-color:gold;
     float: left;
+    padding-left: 2%;
+    color: white;
 }
 .mmm{
     height: 250px;
@@ -79,4 +84,10 @@
     
     margin: auto;
 
+}
+.puk{
+    width: 50%;
+    height: 100%;
+    margin-left: 90px;
+    
 }
